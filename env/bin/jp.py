@@ -1,4 +1,4 @@
-#!/home/ubuntu/environment/proyecto1/env/bin/python
+#!/home/ubuntu/bigData/env/bin/python3
 
 import sys
 import json
