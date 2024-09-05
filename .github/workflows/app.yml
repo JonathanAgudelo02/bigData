@@ -38,7 +38,7 @@ jobs:
 
               # Actualizar el código desde la rama dev
               git fetch --all &&
-              git reset --hard origin/dev &&
+              git reset --hard origin/main &&
               git pull origin main &&
 
               # Instalar dependencias necesarias
